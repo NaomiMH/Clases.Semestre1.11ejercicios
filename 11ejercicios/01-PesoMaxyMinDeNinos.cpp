@@ -2,7 +2,7 @@
  * Naomi Macias Honti a01282098
  * 4 de septiembre
  * 40 lineas mas 7 de comentarios. 47 en total.
- * tiempo no calculado
+ * Tiempo no estimado.
  * Pregunta por peso max y min posible para el nino, pregunta peso actual y aconseja que hacer.
  */
  #include<iostream>
