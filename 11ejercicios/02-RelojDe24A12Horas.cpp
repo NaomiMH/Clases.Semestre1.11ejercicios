@@ -2,7 +2,7 @@
  * Naomi Macias Honti a01282098
  * 4 de septiembre
  * 76 lineas mas 7 de comentarios. 83 en total.
- * tiempo no calculado
+ * Tiempo no estimado.
  * Pide hora y minutos en formato de 24 horas y la da en 12 horas.
  */
  #include<iostream>
