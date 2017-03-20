@@ -2,7 +2,7 @@
  * Naomi Macias Honti a01282098
  * 4 de septiembre
  * 40 lineas mas 7 de comentarios. 47 en total.
- * 10.03
+ * Tiempo no estimado.
  * Pide valor de x y depende del valor, escoge una formula donde aplica el valor y da el resultado.
  */
  #include<iostream>
