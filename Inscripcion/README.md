@@ -5,4 +5,4 @@
 
 26 min.
 
-Pide matricula, dependiendo de esta se da el dia de inscripcion, campus, este decide si es precencial o en linea, y la beca, que tiene que estar en 0 y 90.
+Pide matricula, dependiendo de esta se da el dia de inscripcion, campus, este decide si es precencial o en linea, y la beca, que tiene que estar entre 0 y 90.
