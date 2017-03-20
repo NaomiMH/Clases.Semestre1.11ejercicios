@@ -2,7 +2,7 @@
  * Naomi Macias Honti a01282098
  * 4 de septiembre
  * 36 lineas mas 7 de comentarios. 43 en total.
- * tiempo no calculado
+ * Tiempo no estimado.
  * Pregunta por 3 numeros y dice el mas grande.
  */
  #include <iostream>
