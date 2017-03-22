@@ -1,4 +1,4 @@
-# Clases.Semestre1.11ejercicios
+# Clases.Semestre1.FP
 
 Clase: Fundamentos de programacion
 
