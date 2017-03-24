@@ -1,8 +1,7 @@
 /**
  * Naomi Macias Honti a01282098
  * 8 de noviembre 2016
- * 101 lineas mas 7 de comentarios. 108 en total.
- * 44 min
+ * 2 hr
  * Tiene dos matrices ya definidas a las que somete a diferentes metodos, de suma, promedio, hayar y contar x.
  */
  #include <iostream>
