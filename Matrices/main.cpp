@@ -1,7 +1,7 @@
 /**
  * Naomi Macias Honti a01282098
  * 21 de octubre 2016
- *  lineas mas  de comentarios.  en total.
+ * 123 lineas mas 7 de comentarios. 130 en total.
  * 19 min.
  * Muestra varias opciones para hacer con Matrices (aun incompleto).
  */
